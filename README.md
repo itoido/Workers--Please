@@ -3,3 +3,7 @@
 ## プラットフォーム
 - Unity
   - Version:6000.049f1
+
+## 体験プラットフォーム
+- Unity Play: https://play.unity.com/api/v1/games/game/c654c5f8-dbcb-4c9e-b9f2-b5038afd37c1/build/latest/frame
+
