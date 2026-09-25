@@ -9,3 +9,6 @@
 
 ## フォルダ詳細
 - Assets/Scripts/Folder Explanation.cs を参照してください
+
+## 権利等
+- ないです。ご自由にご活用してください
