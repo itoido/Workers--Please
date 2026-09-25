@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab23f57cf8c0cc459a6890498c0d4ca, type: 3}
+  m_Name: GitHub-Applicant_B
+  m_EditorClassIdentifier: 
+  profileImage: {fileID: 5965343168544051711, guid: 90f032493247ae045b3696c8179b629b, type: 3}
+  displayName: Mei Kadoguchi
+  userName: '@Mei'
+  bio: "2020\u5E744\u6708\u301C2022\u5E743\u6708\uFF1A\u682A\u5F0F\u4F1A\u793E\u30CD\u30AF\u30B5\u30B9\u30CE\u30FC\u30C8\r\n2022\u5E744\u6708\u301C2024\u5E7412\u6708\uFF1A\u30AA\u30FC\u30D3\u30C3\u30C8\u30EF\u30FC\u30AF\u30B9\u682A\u5F0F\u4F1A\u793E\r\n2025\u5E741\u6708\u301C\u73FE\u5728\uFF1A\u682A\u5F0F\u4F1A\u793E\u30D4\u30A2\u30B3\u30CD\u30AF\u30C8"
+  followers: 0
+  following: 0
+  location: Osaka, Japan
+  email: mei.kadoguchi@example.com
+  career: web-checkout-e2e, test-fixtures, playwright-report, api-contract-checks,
+    release-gate, checkout-a11y, qa-184
+  skills: TypeScript/Playwright/Cypress/BitHug Actions/PostgreSQL
+  interests: "\u306A\u3057"
+  links: "\u306A\u3057"

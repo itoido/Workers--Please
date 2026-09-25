@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab23f57cf8c0cc459a6890498c0d4ca, type: 3}
+  m_Name: GitHub-Applicant_A
+  m_EditorClassIdentifier: 
+  profileImage: {fileID: 9222034339694203137, guid: c7dd915d671cb7f41b88899c237db45a, type: 3}
+  displayName: Toshihiro Nifuji
+  userName: '@2fizz'
+  bio: Backend engineer
+  followers: 64
+  following: 37
+  location: Tokyo, Japan
+  email: toshihiro.nifuji@kikyo-example.jp
+  career: "\u30FBharbor-reserve-api\uFF1A\u4E88\u7D04\u53D7\u4ED8\u3068\u901A\u77E5\u51E6\u7406\u306E\u30B5\u30F3\u30D7\u30EB\uFF08https://bithug.com/2fizz/harbor-reserve-api\uFF09\n\u30FBpython-settings-notes\uFF1A\u8A2D\u5B9A\u30D5\u30A1\u30A4\u30EB\u306E\u8AAD\u307F\u8FBC\u307F\u30E1\u30E2\n\u30FBreading-notes\uFF1A\u6280\u8853\u66F8\u306E\u8AAD\u66F8\u30E1\u30E2"
+  skills: Python / Go / AWS
+  interests: "\u91E3\u308A"
+  links: 'FaveBook: favebook.com/2fizz'

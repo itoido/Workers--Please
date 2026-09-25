@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23e51168bbc7f6d428de580c1b2e147a, type: 3}
+  m_Name: Applicant_B
+  m_EditorClassIdentifier: 
+  FacialImage: {fileID: 5965343168544051711, guid: 90f032493247ae045b3696c8179b629b, type: 3}
+  applicantName: "\u30AB\u30C9\u30B0\u30C1\u3000\u30E1\u30A4\uFF08Kadoguchi Mei\uFF09"
+  email: mei.kadoguchi@example.com
+  location: "\u5927\u962A\u5E9C\u5343\u6CE2\u5E02\u685C\u5DDD1-9-12 \u30E1\u30BE\u30F3\u685C\u5DDD
+    303"
+  Background: "2020\u5E744\u6708\u301C2022\u5E743\u6708\uFF1A\u682A\u5F0F\u4F1A\u793E\u30CD\u30AF\u30B5\u30B9\u30CE\u30FC\u30C8\r\n2022\u5E744\u6708\u301C2024\u5E7412\u6708\uFF1A\u30AA\u30FC\u30D3\u30C3\u30C8\u30EF\u30FC\u30AF\u30B9\u682A\u5F0F\u4F1A\u793E\r\n2025\u5E741\u6708\u301C\u73FE\u5728\uFF1A\u682A\u5F0F\u4F1A\u793E\u30D4\u30A2\u30B3\u30CD\u30AF\u30C8"
+  supplement: TypeScript/Playwright/Cypress/BitHug Actions/PostgreSQL
+  interviewData: {fileID: 11400000, guid: 83faae44579cf5f49998d9481d5139ef, type: 2}
+  ipLogFile: {fileID: 4900000, guid: 0754550516f692c4ead6ba15b4b1e630, type: 3}
+  searchData: {fileID: 11400000, guid: 4e7e01dc16b316d4484e09a38c571547, type: 2}
+  aiImageDetectionData:
+    aiProbability: 100
+    resultMessage: Absolutely made by AI.
+  isFraud: 1
+  fraudExplanation: "Mei Kadoguchi \u306F\u3001\u67B6\u7A7A\u306E\u56FD\u5916\u62E0\u70B9\u306B\u3042\u308B\u53D7\u8A17\u30C1\u30FC\u30E0\u304C\u7528\u610F\u3057\u305FQA\u5FDC\u52DF\u7528\u306E\u4EBA\u7269\u50CF\u3002\u63D0\u51FA\u3057\u305F\u9854\u5199\u771F\u306FAI\u751F\u6210\u753B\u50CF\u3067\u3001\u5B9F\u5728\u306E\u4EBA\u7269\u306E\u5199\u771F\u3067\u306F\u306A\u3044\u3002
+    \u5B66\u6B74\u30FB\u8077\u6B74\u30FB\u958B\u767A\u8005\u30A2\u30AB\u30A6\u30F3\u30C8\u306A\u3069\u306E\u63D0\u51FA\u60C5\u5831\u306E\u5B9F\u5728\u6027\u306F\u3001\u3053\u306E\u8CC7\u6599\u3067\u306F\u5224\u5B9A\u3057\u306A\u3044\u3002"

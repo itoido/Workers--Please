@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e16b4f811770c2f4680d1bae073b572d, type: 3}
+  m_Name: SNS_Applicant_A
+  m_EditorClassIdentifier: 
+  profileImage: {fileID: 9222034339694203137, guid: c7dd915d671cb7f41b88899c237db45a, type: 3}
+  coverImage: {fileID: 8957324059118975939, guid: 8b08a0eb82f3b0e408f11673ca907907, type: 3}
+  displayName: toshi
+  userId: '@2fizz'
+  bio: backend / coffee / city walks
+  followers: 100
+  following: 76
+  location: Tokyo, Japan
+  career: "BackendEngineer\u3068\u3057\u3066\u306E\u8077\u52D9\u7D4C\u9A13"
+  education: 
+  posts:
+  - date: 2026-10-14 10:50
+    content: "\u9031\u672B\u306F\u30B3\u30FC\u30D2\u30FC\u8C46\u3092\u8CB7\u3044\u8DB3\u3059\u3002\u3044\u3064\u3082\u306E\u30D6\u30EC\u30F3\u30C9\u306B\u623B\u3063\u305F\u3002"
+    image: {fileID: 0}
+  - date: 2026-10-12 12:15
+    content: "\u4E88\u7D04API\u306E\u30B5\u30F3\u30D7\u30EB\u3001README\u3092\u516C\u958B\u3057\u307E\u3057\u305F\u3002
+      https://bithug.com/2fizz/harbor-reserve-api"
+    image: {fileID: 0}
+  - date: 2026-10-09 19:30
+    content: "\u30AA\u30F3\u30E9\u30A4\u30F3\u52C9\u5F37\u4F1A\u306E\u76E3\u8996\u8A2D\u8A08\u306E\u8A71\u304C\u3088\u304B\u3063\u305F\u3002\u901A\u77E5\u3092\u5897\u3084\u3059\u524D\u306B\u904B\u7528\u3092\u8003\u3048\u305F\u3044\u3002"
+    image: {fileID: 0}
+  - date: 2026-10-05 21:05
+    content: "DB\u306E\u5236\u7D04\u3067\u5B88\u308B\u90E8\u5206\u3068\u30A2\u30D7\u30EA\u3067\u6848\u5185\u3059\u308B\u90E8\u5206\u3001\u4E21\u65B9\u8003\u3048\u308B\u306E\u304C\u5927\u4E8B\u3002"
+    image: {fileID: 0}
+  - date: 2026-10-01 16:10
+    content: "\u6771\u4EAC\u306E\u6563\u6B69\u5199\u771F\u3092\u6574\u7406\u4E2D\u3002\u5915\u65B9\u306E\u5DDD\u6CBF\u3044\u306E\u5149\u304C\u597D\u304D\u3002"
+    image: {fileID: 0}
+  - date: 2026-09-28 20:40
+    content: "\u30AD\u30FC\u30DC\u30FC\u30C9\u306E\u914D\u7F6E\u3092\u5909\u3048\u305F\u3089\u6700\u521D\u306E\u4E00\u6642\u9593\u3060\u3051\u8AA4\u5165\u529B\u304C\u5897\u3048\u305F\u3002\u6163\u308C\u305D\u3046\u3002"
+    image: {fileID: 0}
+  - date: 2026-09-25 11:20
+    content: "\u6D45\u714E\u308A\u3092\u5C11\u3057\u4F4E\u3081\u306E\u6E29\u5EA6\u3067\u3002\u4ECA\u65E5\u306F\u9178\u5473\u304C\u3061\u3087\u3046\u3069\u3044\u3044\u3002"
+    image: {fileID: 0}

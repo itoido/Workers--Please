@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23e51168bbc7f6d428de580c1b2e147a, type: 3}
+  m_Name: Applicant_C
+  m_EditorClassIdentifier: 
+  FacialImage: {fileID: 2851949604674688550, guid: 9f48b1ad5a21f254fb2bd72776b8acb3, type: 3}
+  applicantName: "\u30AB\u30F3\u30D0\u30E9\u3000\u30A2\u30AD\u30E9\uFF08Kanbara Akira\uFF09"
+  email: akira.kanbara@example.com
+  location: "\u5927\u962A\u5E9C\u897F\u6F84\u5E02\u82E5\u8449\u753A3-9-5 \u30B0\u30E9\u30F3\u82E5\u8449
+    705"
+  Background: "2014/4~2020/3\uFF1A\u682A\u5F0F\u4F1A\u793E\u30AA\u30EB\u30D3\u30C3\u30C8\u30E9\u30C3\u30AF\n2020/4~2023/9\uFF1A\u682A\u5F0F\u4F1A\u793E\u30AF\u30E9\u30A6\u30C9\u30CD\u30B9\u30C8\u30EF\u30FC\u30AF\u30B9\n2023/10~\uFF1A\u682A\u5F0F\u4F1A\u793E\u30B9\u30C6\u30C7\u30A3\u30EC\u30FC\u30F3\n\n\u30B5\u30FC\u30D3\u30B9\u306E\u76E3\u8996\u8A2D\u8A08\u3068\u3001\u30A4\u30F3\u30D5\u30E9\u69CB\u6210\u7BA1\u7406\u306B\u3088\u308B\u904B\u7528\u4F5C\u696D\u306E\u81EA\u52D5\u5316\u304C\u5F97\u610F"
+  supplement: AWS/Terraform/Kubernetes/Go/Prometheus
+  interviewData: {fileID: 11400000, guid: 0d67e48af51efe04ebf57b95a12cd56e, type: 2}
+  ipLogFile: {fileID: 4900000, guid: 4b55d299b1677b441a65e49bcb32c886, type: 3}
+  searchData: {fileID: 11400000, guid: 301fca72d888ebb4e98e5e78f624fc53, type: 2}
+  aiImageDetectionData:
+    aiProbability: 0
+    resultMessage: Not AI-generated
+  isFraud: 0
+  fraudExplanation: "\u6B63\u898F\u306E\u4E00\u822C\u5FDC\u52DF\u8005"
